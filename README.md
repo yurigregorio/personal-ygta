@@ -10,9 +10,7 @@
   <img align="center" alt="Spark" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
   <img align="center" alt="Java" height="50" src="https://logospng.org/download/java/logo-java-4096.png">
 </div>
-<br>
-
 
 <br/>
 
-[![GitHub Yuri Gregorio]( https://img.shields.io/github/followers/YuriGregorio?label=follow&style=social)](https://github.com/yurigregorio)
+
