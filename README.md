@@ -11,3 +11,11 @@
   <img align="center" alt="Java" height="50" src="https://logospng.org/download/java/logo-java-4096.png">
 </div>
 <br>
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=ffdd54)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-333333?style=flat&logo=apachespark&logoColor=orage)
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-333333?style=flat&logo=apachehadoop&logoColor=yellow)
+![Java](https://img.shields.io/badge/Java-333333.svg?style=flat&logo=openjdk&logoColor=blue)
+![Jenkins](https://img.shields.io/badge/Jenkins-333333.svg?style=flat&logo=jenkins&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-333333.svg?style=flat&logo=angular&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
