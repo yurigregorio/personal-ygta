@@ -15,6 +15,4 @@
 
 <br/>
 
-[![Linkedin: Yuri Gregorio](https://img.shields.io/badge/-YuriGregorio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yurigregorio/?locale=en_US)](https://www.linkedin.com/in/yurigregorio/?locale=en_US)
-[![Hotmail Badge](https://img.shields.io/badge/-yuri.gregorio@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuri.gregorio1@hotmail.com)](mailto:yuri.gregorio1@hotmail.com)
 [![GitHub Yuri Gregorio]( https://img.shields.io/github/followers/YuriGregorio?label=follow&style=social)](https://github.com/yurigregorio)
