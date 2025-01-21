@@ -11,6 +11,11 @@
   <img align="center" alt="Java" height="50" src="https://logospng.org/download/java/logo-java-4096.png">
 </div>
 
+## Credentials
+<div style="display: inline_block">
+  <img align="center" alt="Databricks Certified Data Engineer Associate" height="50" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg](https://www.databricks.com/sites/default/files/2022/04/Associate-badge-eng-2x.png?v=1660758008)">
+</div>
+
 <br/>
 
 
