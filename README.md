@@ -13,7 +13,9 @@
 
 ## Credentials
 <div style="display: inline_block">
-  <img align="center" alt="Databricks Certified Data Engineer Associate" height="50" src="https://www.databricks.com/sites/default/files/2022/04/Associate-badge-eng-2x.png?v=1660758008">
+  <a href="https://credentials.databricks.com/a3de367a-bb3f-4d8b-bf73-02dc053c15fb#acc.4vG3XVZM" target="_blank">
+    <img align="center" alt="Databricks Certified Data Engineer Associate" height="50" src="https://www.databricks.com/sites/default/files/2022/04/Associate-badge-eng-2x.png?v=1660758008">
+  </a>
 </div>
 
 <br/>
