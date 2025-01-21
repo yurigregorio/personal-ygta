@@ -10,8 +10,8 @@
   <img align="center" alt="Spark" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/1200px-Apache_Spark_logo.svg.png">
   <img align="center" alt="Java" height="50" src="https://logospng.org/download/java/logo-java-4096.png">
   <img align="center" alt="Azure" height="50" src="https://swimburger.net/media/ppnn3pcl/azure.png">
-   <img align="center" alt="ControlM" height="50" src="https://supervize.co.il/wp-content/uploads/2023/12/Mask-Group-1.png">
-
+  <img align="center" alt="ControlM" height="50" src="https://supervize.co.il/wp-content/uploads/2023/12/Mask-Group-1.png">
+  <img align="center" alt="Databricks" height="50" src="https://w7.pngwing.com/pngs/769/465/png-transparent-databricks-full-logo-tech-companies.png">
 </div>
 <br>
 
