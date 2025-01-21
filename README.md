@@ -12,6 +12,7 @@
   <img align="center" alt="Azure" height="50" src="https://swimburger.net/media/ppnn3pcl/azure.png">
   <img align="center" alt="ControlM" height="50" src="https://supervize.co.il/wp-content/uploads/2023/12/Mask-Group-1.png">
   <img align="center" alt="Databricks" height="50" src="https://corebts.com/wp-content/uploads/2023/08/databricks-horizontal.png">
+  <img align="center" alt="Cloudbess" height="50" src="https://www.netpoleons.com/uploads/1/0/7/8/107892225/cloudbees-logo_orig.png">
 </div>
 <br>
 
